@@ -21,7 +21,8 @@
 ## 🚀 Projetos em Destaque
 
 - [SoccerAcademy](https://github.com/markinifsp/SoccerAcademy) - Site institucional para escola de futebol, responsivo e moderno  
-- [Conversor de Moedas - API Node](https://github.com/markinifsp/Conversor-de-Moedas-NODE-API) - API REST para conversão de moedas em tempo real  
+- [Conversor de Moedas - API Node](https://github.com/markinifsp/Conversor-de-Moedas-NODE-API) - API REST para conversão de moedas em tempo real
+- [Conversor de Moedas](https://github.com/markinifsp/Conversor-de-Moedas) - Aplicação fullstack utilizando **React**, **Node.js** e **SQLite** para conversão de moedas. Caso a taxa de câmbio não esteja no banco, ela é consultada em uma API externa e salva localmente. 
 
 ---
 
